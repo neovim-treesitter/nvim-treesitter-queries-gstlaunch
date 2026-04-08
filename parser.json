@@ -1,6 +1,6 @@
 {
-  "semver": false,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch",
-  "lang": "gstlaunch",
-  "parser_version": "549aef253fd38a53995cda1bf55c501174372bf7"
+  "semver": false,
+  "parser_version": "549aef253fd38a53995cda1bf55c501174372bf7",
+  "lang": "gstlaunch"
 }
